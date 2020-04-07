@@ -32,6 +32,7 @@ Theta2_grad = zeros(size(Theta2));
 
 y_ = zeros(m,num_labels);
 
+
 % ====================== YOUR CODE HERE ======================
 % Instructions: You should complete the code by working through the
 %               following parts.
